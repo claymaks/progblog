@@ -1,0 +1,13 @@
+body {  color: black;
+  background-color: #FFFDF8; }
+
+h1 {
+  font-family: HelveticaNeue-CondensedBold; }
+
+a.navbar-brand {
+  font-family: HelveticaNeue-CondensedBold;
+
+  font-size: 35px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
